@@ -31,7 +31,7 @@ IMAGES:
 <p align="center">
   <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_6867.jpg" width=30% />
   <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/MK1 render.PNG" width=30% /> 
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_6872.jpf" width=30% />
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_6872.jpg" width=30% />
 </p>
 
     
