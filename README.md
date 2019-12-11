@@ -11,7 +11,7 @@ This PMS was designed to power mobile robots that require 5V(<4A) for their comp
 SPECS:
 * 2 Sony 18650VTC6 3000mAh Li-Ion Battery  
 * Overcharge, Over-discharge, Over-current protection.  
-* 2 adjustable voltage outputs  
+* 1 adjustable voltage output for motors  
 * Charge while Use
 
 IMAGES:
