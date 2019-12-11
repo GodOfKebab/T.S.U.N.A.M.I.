@@ -23,9 +23,9 @@ IMAGES:
 </p>
 
 <p align="center">
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" width=30% />
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_1205.gif" width=30% />
   <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_8856.jpg" width=30% /> 
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" width=30% />
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_1206.gif" width=30% />
 </p>
 
 
