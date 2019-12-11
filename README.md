@@ -15,7 +15,7 @@ SPECS:
 * Charge while Use
 
 IMAGES:
-
+![MK1](https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg)
 
 
 
