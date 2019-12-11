@@ -34,7 +34,13 @@ IMAGES:
   <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_6872.jpg" width=30% />
 </p>
 
-    
+SCHEMATICS:
+
+<p align="center">
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_5305.jpg" width=30% />
+</p>
+
+
 #### TSUNAMI PMS MK2(Under Construction)
 This PMS is designed to power mobile robots that require 12V for their computers and for their motor drive system. The maximum continous amperage supplied is 80A and can burst 120A for a short amount of time. 
 
@@ -47,8 +53,13 @@ SPECS:
 IMAGES:
 
 <p align="center">
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_5305.jpg" width=30% />
   <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/MK2 render.PNG" width=30% /> 
+</p>
+
+
+SCHEMATICS:
+
+<p align="center">
   <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_8634.jpg" width=30% />
 </p>
 
