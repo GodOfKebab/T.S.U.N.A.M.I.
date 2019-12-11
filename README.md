@@ -1,6 +1,6 @@
 # T.S.U.N.A.M.I. Vehicles
 
-T.S.U.N.A.M.I. stands for Top Secret Unmanned Application of Mobile Intelligence. These vehicles can range from 50-5000$ and their main computers are usually Raspberry Pi or NVIDIA's Jetson Series. 
+T.S.U.N.A.M.I. stands for Top Secret Unmanned Navigation Application of Mobile Intelligence. These vehicles can range from 50-5000$ and their main computers are usually Raspberry Pi or NVIDIA's Jetson Series. 
 
 ## Power Management System
 In order to power these vehicles, we decided to build a custom power banks for different levels(Marks) that fulfills the the power requirements of different robots. 
