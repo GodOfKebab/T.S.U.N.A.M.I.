@@ -16,6 +16,20 @@ SPECS:
 
 IMAGES:
 
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" alt="Snow" style="width:20%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" alt="Forest" style="width:20%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" alt="Mountains" style="width:20%">
+  </div>
+</div>
+
+
+
 <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" width="400" height="200" />
 <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" width="400" height="200" />
 
