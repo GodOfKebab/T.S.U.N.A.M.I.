@@ -17,7 +17,7 @@ SPECS:
 IMAGES:
 ![](https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg) | ![](https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_8986.jpg) | ![](https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_3791.jpg)
 :---------------------------------:|:--------------------------------:|:---------------------------------
-bla  |  bla. | bla
+bla  |  bla | bla
 
 
 
