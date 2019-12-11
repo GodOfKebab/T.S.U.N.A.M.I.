@@ -17,13 +17,13 @@ SPECS:
 IMAGES:
 
 <div class="row">
-  <div class="column">
+  <div class="column" float="left" width=33.33%>
     <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" alt="Snow" style="width:20%">
   </div>
-  <div class="column">
+  <div class="column" float="left" width=33.33%>
     <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" alt="Forest" style="width:20%">
   </div>
-  <div class="column">
+  <div class="column" float="left" width=33.33%>
     <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" alt="Mountains" style="width:20%">
   </div>
 </div>
