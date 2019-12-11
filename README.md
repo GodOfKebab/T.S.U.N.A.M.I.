@@ -36,7 +36,7 @@ IMAGES:
 
     
 #### TSUNAMI PMS MK2(Under Construction)
-This PMS was designed to power mobile robots that require 12V for their computers and for their motor drive system. The maximum continous amperage supplied is 80A and can burst 120A for a short amount of time. 
+This PMS is designed to power mobile robots that require 12V for their computers and for their motor drive system. The maximum continous amperage supplied is 80A and can burst 120A for a short amount of time. 
 
 SPECS:
 * 12 Sony 18650VTC6 3000mAh Li-Ion Battery  
