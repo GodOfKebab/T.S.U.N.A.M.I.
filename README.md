@@ -46,5 +46,9 @@ SPECS:
 
 IMAGES:
 
-
+<p align="center">
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_5305.jpg" width=30% />
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/MK2 render.PNG" width=30% /> 
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_8634.jpg" width=30% />
+</p>
 
