@@ -12,6 +12,7 @@ SPECS:
 * 2 Sony 18650VTC6 3000mAh Li-Ion Battery  
 * Overcharge, Over-discharge, Over-current protection.  
 * 1 adjustable voltage output for motors  
+* 2 USB A ports
 * Charge while Use
 
 IMAGES:
