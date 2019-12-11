@@ -15,7 +15,7 @@ SPECS:
 * Charge while Use
 
 IMAGES:
-![](<img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" height="24" width="48">) | ![](<img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" height="24" width="48">) | ![](<img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" height="24" width="48">)
+![100x100| %50]("https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg") | ![100x100| %50]("https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg") | ![100x100| %50]("https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg")
 :---------------------------------:|:--------------------------------:|:---------------------------------
 bla  |  bla | bla
 
