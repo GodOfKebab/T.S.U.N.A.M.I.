@@ -28,6 +28,11 @@ IMAGES:
   </div>
 </div>
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
 
 <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/IMG_0675.jpg" width="400" height="200" />
